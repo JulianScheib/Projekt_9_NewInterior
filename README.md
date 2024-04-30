@@ -21,7 +21,7 @@ CSS
 DESKTOP-Version
 ![Example screenshot](./assets/img/New-Interior.png)
 TABLET-Version
-![Example screenshot](./assets/img/New-Interior2.png)
+![Example screenshot](./assets/img/New-Interior_2.png)
 
 ## Contact
 
