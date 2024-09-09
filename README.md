@@ -2,7 +2,7 @@
 
 > A website project about media querries
 >
-> Live demo [_here_](https://christianscholtysik.github.io/New-Interior).
+> Live demo [_here_](https://newinterior.netlify.app/)).
 
 ## Table of Contents
 
@@ -25,4 +25,4 @@ TABLET-Version
 
 ## Contact
 
-Created by Julian (https://github.com/JulianSupercode) & Christian (https://github.com/ChristianScholtysik)
+Created by Julian (https://github.com/JulianScheib) & Christian (https://github.com/ChristianScholtysik)
